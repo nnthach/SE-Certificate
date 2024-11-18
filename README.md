@@ -2,7 +2,12 @@
 
 ## 🌟 Introduction
 
-I am proud to showcase two significant certifications that reflect my commitment to continuous learning and professional development in web design and programming. The first is a Web Design Certificate from Coursera, where I gained comprehensive knowledge about creating user-friendly and visually appealing websites. The second certificate is in HTML & CSS from F8, led by Nguyen Ngoc Thach, which provided me with a solid foundation in web development, focusing on structuring and styling web pages effectively. These certifications have equipped me with the essential skills to build modern and responsive web applications.
+I am proud to showcase two significant certifications that reflect my commitment to 
+continuous learning and professional development in web design and programming. 
+The first is a Web Design Certificate from Coursera, where I gained comprehensive knowledge about creating user-friendly and visually appealing websites. 
+The second certificate is in HTML & CSS from F8, which provided me with a solid foundation in web development, 
+focusing on structuring and styling web pages effectively. 
+These certifications have equipped me with the essential skills to build modern and responsive web applications.
 
 ## 1. Web Design Certificate from Coursera
 ![alt text](images/Coursera_WebDesign.jpg)
