@@ -13,6 +13,8 @@ These certifications have equipped me with the essential skills to build modern 
 ![alt text](images/Coursera_WebDesign.jpg)
 ## 2. HTML & CSS Certificate from F8 (Nguyen Ngoc Thach)
 ![alt text](images/F8_NguyenNgocThach_HTML_CSS_Certificate.png)
+## 3. JavaScript Basic Certificate from F8 (Nguyen Ngoc Thach)
+![alt text](images/F8_NguyenNgocThach_JavaScript_Basic_Certificate.png)
 
 ## 📂 Why Share This?
 
